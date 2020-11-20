@@ -1,1 +1,1 @@
-const API_URL="http://api.fleckstudio.com.br";
+const API_URL="http://itaumon-api-itau-java-spring.herokuapp.com";
