@@ -1,1 +1,1 @@
-const API_URL="http://itaumon-api-itau-java-spring.herokuapp.com";
+const API_URL="https://itaumon-api-itau-java-spring.herokuapp.com";
